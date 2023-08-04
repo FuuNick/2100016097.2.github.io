@@ -37,7 +37,7 @@ function drawColumnChart(data) {
 
 function drawAreaChart(data) {
     var options = {
-        title: 'memvisualisasikan data secara proporsional tinggi sehingga perbandingan antara kategori dapat dengan mudah dipahami secara visual. ',
+        title: 'Memvisualisasikan data secara proporsional tinggi sehingga perbandingan antara kategori dapat dengan mudah dipahami secara visual. ',
         width: 400,
         height: 300
     };
